@@ -1,7 +1,7 @@
 # Javascript Animation Workshop
 Files for a short javascript animation workshop. 
 
-In this workshop, we use Greensock.js to create a simple
+In this workshop, we use the Greensock animation library to create a simple
 responsive animation, showing a racetrack with racing karts.
 
 The karts start moving randomly after pressing the start button.
