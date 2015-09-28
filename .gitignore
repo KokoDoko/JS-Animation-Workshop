@@ -1,5 +1,2 @@
-# Object file
-*.o
-
-# Ada Library Information
-*.ali
+# mac system files
+.DS_Store
