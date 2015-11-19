@@ -56,8 +56,7 @@
 
 	// ************************************************************
 	//
-	// SHOW THE START BUTTON 
-	// THIS FUNCTION IS CALLED AFTER THE KARTS HAVE APPEARED AT THE START
+	// SHOW THE START BUTTON -- THIS FUNCTION IS CALLED AFTER THE KARTS HAVE APPEARED AT THE START
 	// CLICKING THE START BUTTON IS ALREADY DEFINED IN 'STARTAPP'
 	// (we don't have to keep defining the click function every time the button is shown)
 	//
