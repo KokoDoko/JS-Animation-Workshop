@@ -9,3 +9,10 @@ The karts start moving randomly after pressing the start button.
 The winning kart receives a 1-up, shown by a little animation.
 
 The karts leave the track and enter again in a nice stagger animation.
+
+## Target audience
+Beginners. No javascript or css knowledge required.
+There is only one javascript file. All variables and functions are locally scoped to this one file.
+
+## Todo
+Remove jQuery.
